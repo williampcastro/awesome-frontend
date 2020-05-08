@@ -277,6 +277,7 @@
 * [Tutorial Zine](https://tutorialzine.com/)
 * [JS Tips](https://www.jstips.co/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+* [Code House](https://codyhouse.co/)
 
 [&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
